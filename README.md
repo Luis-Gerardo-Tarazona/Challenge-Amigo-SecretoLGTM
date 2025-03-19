@@ -7,6 +7,6 @@ El sitema mostrará los nombres ingresados en la pantalla princial e indicará e
 
 
 :white_check_mark: Tecnologías utlizadas
-Javascript
-HTML
-CSS
+*Javascript
+*HTML
+*CSS
